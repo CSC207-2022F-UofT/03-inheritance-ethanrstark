@@ -102,7 +102,6 @@ public abstract class Bag {
      *       Remember to modify numberOfContents accordingly.
      *
      * If there are no items in this Bag, return null.
-     *
      * @return
      */
     public String popItem() {
